@@ -1,6 +1,6 @@
 Hi, as you can see in my profile I am in fact Felipe Sena.
 
-I'm very interested in computer science, specifically computer graphics and aim to eventually work and publish some project related to the field (will be FOSSs), anyways, these are the things that I'm currently working on:
+I'm very interested in computer science, specifically computer graphics and aim to eventually work and publish some project related to the field (will be FOSS), anyways, these are the things that I'm currently working on:
 
 - Blenders (Blender installation and project management): Early in development
 
