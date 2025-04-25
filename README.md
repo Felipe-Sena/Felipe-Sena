@@ -21,7 +21,7 @@ And these are the languages I know well:
 - Batch (Windows)
 - Lua
 
-And these are the languages I'm working on improving or learning:
+And these are the languages I'm working on getting better at or learning:
 
 - C and C++
 - Bash (Linux)
