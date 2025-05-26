@@ -1,31 +1,5 @@
-Hi, as you can see in my profile I am in fact Felipe Sena.
+I have begun migrating to [Codeberg](https://codeberg.org) for public FOSS projects.
 
-I'm very interested in computer science, specifically computer graphics and aim to eventually work and publish some project related to the field (will be FOSS), anyways, these are the things that I'm currently working on:
+This is due my stance on AI "tools" and how Microsoft is pushing Copilot everywhere they can, even when the use-case is not applicable (which is most of them).
 
-- Blenders (Blender installation and project management): Early in development
-
-And these are the tools I use:
-
-- Visual Studio Code (for now)
-- VIM
-- Godot
-- Blender
-
-And these are the languages I know well:
-
-- C#
-- GDScript
-- Python
-- LaTeX
-- JavaScript
-- Batch (Windows)
-- Lua
-
-And these are the languages I'm working on getting better at or learning:
-
-- C and C++
-- Bash (Linux)
-- GLSL and GDShader
-- ASM (x86\_64)
-
-And finally: Fuck AI.
+Projects I deem important (Such as Blenders, PathBreaker and TrianglePusher) will be mirrored here, but smaller or personal projects will be on Codeberg.
