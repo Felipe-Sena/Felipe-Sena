@@ -1,5 +1,5 @@
 # Migrating
-I have begun migrating to [Codeberg](https://codeberg.org) for public FOSS projects.
+I have begun migrating to [Codeberg](https://codeberg.org/Felipe-Sena) for public FOSS projects.
 
 I'm moving on from GitHub because I don't like AI and how it is being pushed by Microsoft (and all other major companies). I don't feel that using Large Language Models (such as Copilot, Gemini, ChatGPT, _et al._) and _especially_ image generation models (like StableDiffusion) is worth the resource usage that follows.
 
